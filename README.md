@@ -10,4 +10,4 @@
 
 **TODO**: 
 - add notes on circuit solver
-- add code exmapefor circuit solver
+- add code example for circuit solver
